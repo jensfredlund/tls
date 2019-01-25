@@ -17,7 +17,6 @@ ORGANISATION_UNIT="IT"
 COMMON_NAME="example.com"
 EMAIL="example.com"
 
-
 mkdir -vp "$CERT_DIR"
 
 openssl req -x509 \
